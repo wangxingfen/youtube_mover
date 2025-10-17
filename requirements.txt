@@ -1,0 +1,14 @@
+# Core dependencies for audio processing and speech recognition
+openai-whisper
+pysrt
+moviepy
+edge_tts
+openai
+retrying
+pillow
+numpy
+
+# Dependencies for translation
+transformers
+torch
+sentencepiece

@@ -1,0 +1,15 @@
+{
+    "base_url": "https://api.siliconflow.cn/v1",
+    "model": "Qwen/Qwen2.5-32B-Instruct",
+    "images_base_url": "https://api.siliconflow.cn/v1",
+    "images_model": "black-forest-labs/FLUX.1-schnell",
+    "image_prompt": "你是一位伟大的intj人格的电影导演，你的任务是根据用户的不完整和不完美的输入，完整还原一个与严格以用户的要求为核心的看上去合情合理的单个画面的英文提示词，首先根据用户输入明确出现的人物数量,如1boy,2girls。请始终严格从用户的需求出发展开描述。使用的英文描述词尽可能是常用英文词汇。输出最多不超过100个单词。",
+    "api_key": "sk-jaoqxbvmrbmvjtnlhcetvvnfhcwjffdkbjpixpvmxwefixrh",
+    "images_api_key": "sk-jaoqxbvmrbmvjtnlhcetvvnfhcwjffdkbjpixpvmxwefixrh",
+    "style_prompt": "masterpiece, best quality, amazing quality,sky style,sky light, guangyu, faceless,cinematic lighting effects,8k,highly detailed",
+    "audio_method": "gpt_sovits",
+    "refer_voice_path": "C:\\Users\\wangxingfeng\\AppData\\Local\\Temp\\gradio\\adf7e42f71cc4a568caa9a3eda213de6081ae29683b398b15b103ca06e385f43\\难过_sad就像你追求真正的正义一样蜜瓜就是蜜瓜绝不会变成假的.wav",
+    "edge_tts_voice": "zh-CN-YunxiNeural",
+    "infer_mode": "批次推理",
+    "gptsovits_character": "星见雅"
+}
